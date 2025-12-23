@@ -63,7 +63,7 @@ export function ProductsSection() {
       power: "500 HP",
       torque: "2800 Nm",
       range: "300+ km",
-      image: "https://www.electrive.com/media/2024/09/e-lkw-sany-e263-2024-1-1400x933.jpg"
+      image: "https://sanyglobal-img.sany.com.cn/prod/20250611/INDIA%20VERSION(1)_113547.jpg?x-oss-process=image/format,webp"
     },
     {
       model: "5538E",
